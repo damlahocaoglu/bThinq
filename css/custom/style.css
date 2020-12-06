@@ -1,0 +1,231 @@
+   
+   /* Font */
+
+   *{
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* logo */
+
+    .logo {
+        width: 170px !important;
+        height: 44px !important;
+        left: 135px !important;
+        top: 30px !important;
+    }
+
+    
+
+    /* button  Login*/
+
+    .btnLogin {
+        width: 130px !important;
+        height: 48px !important;
+        left: 1175px !important;
+        top: 28px !important;
+        color: #fff !important;
+        background: #FFA756 !important;
+        border-radius: 24px !important;
+    }
+    .btnLogin:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19) !important;
+    }
+   
+
+    /* button get started */
+    .started{
+        background: #FFFFFF;
+        font-size: 14px;
+        color: rgba(20, 109, 191, 1);
+        line-height: 20px;
+        padding: 20px 45px;
+        border-radius: 40px;
+        border: 1px solid #FFFFFF;
+    }
+    
+        .started:hover {
+            background: none !important; 
+            border: 1px solid #FFFFFF !important;
+            color: #fff !important;
+          }
+      
+
+        /* button Learn More */
+        .learn{
+            background: none;
+            font-size: 14px;
+            color: #FFFFFF;
+            line-height: 20px;
+            padding: 20px 45px;
+            border-radius: 40px;
+            border: 1px solid #FFFFFF;
+            margin-right: 15px;
+        }
+   
+        .learn:hover {
+            background-color: #fff !important; 
+            color: #0059AC !important;
+          }
+      
+
+
+    .btnabout {
+        width: 160px;
+        height: 48px;
+        background: #FFFFFF;
+        border-radius: 40px;
+        color: #7B00B5 !important; 
+          
+    
+    }
+    .btnabout:hover {
+        background-color: #7B00B5 !important; 
+        color: #fff !important;
+      }
+
+    /*navtext */
+
+    .navtext {
+        
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-size: 14px !important;
+        line-height: 21px !important;
+        color: #242424 !important;
+
+    }
+
+    /* section1 */
+
+    .bg-images{
+        background-image: url(/bThinq/img/carousel/carousel.png);
+        background-size: cover;
+        background-position: center;
+        height: 796px;
+        padding: 0 35px;
+    }
+
+    /* line */
+    .line{
+
+        width: 60px !important;
+        height: 2px !important;
+        margin-left: 5px;
+        
+        background: #B77DF8 !important;
+        
+    }
+
+    /* line blue*/
+    .lineBlue{
+
+        width: 120px !important;
+        height: 2px !important;
+        background: #0059AC !important;
+        
+    }
+
+    /* line Purple*/
+    .linePurple{
+
+        height: 2px;
+        margin-bottom: 150px;
+        background: #7B00B5;
+        opacity: 0.25;
+
+    }
+
+    
+
+    /* Ellipse 1 */
+    .ellipse1{
+        width: 24px;
+        height: 24px;
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 40px;
+    }
+
+    /* Ellipse 1 */
+    .ellipse2{
+        width: 16px;
+        height: 16px;
+        border-radius: 40px;
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+    }
+
+    .icons i{
+        color: #89B6DF;
+        margin-top: 20px;
+    }
+
+    .circle i{
+        margin-top: 20px;
+    }
+
+    .best{
+        font-size: 24px;
+        color: #fff;
+        font-weight: 400;
+    }
+    .design{
+        font-size: 48px;
+        color: #fff;
+        font-weight: 400;
+        line-height: 72px;
+        margin-top: 40px;
+    }
+
+    span{
+        font-weight: 700;
+    }
+
+    .loreem{
+        font-size: 16px;
+        line-height: 26px;
+        color: #fff;
+        font-weight: 400;
+        margin-top: 18px;
+    }
+
+
+
+
+
+/* 
+    h3{
+        
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-size: 20px !important;
+        line-height: 26px !important;
+    }
+
+    h2{
+        
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-size: 22px !important;
+        line-height: 28px !important;
+        color: #0059AC !important;
+    }
+
+    h1{
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-size: 42px !important;
+        line-height: 72px !important;
+
+    }
+
+    p{
+        font-style: normal !important;
+        font-weight: normal !important;
+        font-size: 12px !important;
+        line-height: 26px !important;
+    } */
+
+    
+
+
